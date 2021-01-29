@@ -10,4 +10,4 @@ Hi there 👋
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The # symbol isn’t officially called hashtag or pound.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bickkysahani)](https://github.com/bickkysahani/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bickkysahani&show_icons=true)](https://github.com/bickkysahani/github-readme-stats)
