@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**bickkysahani/bickkysahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently exploring the fascinating world of Machine Learning and Deep Learning.
 - 🌱 I’m currently learning ...
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Send a DM at linkedin.com/in/bickkysahani
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The # symbol isn’t officially called hashtag or pound.
--->
