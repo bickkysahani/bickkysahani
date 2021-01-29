@@ -9,3 +9,5 @@ Hi there 👋
 - 📫 How to reach me: Send a DM at linkedin.com/in/bickkysahani
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The # symbol isn’t officially called hashtag or pound.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bickkysahani)](https://github.com/bickkysahani/github-readme-stats)
