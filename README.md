@@ -12,6 +12,6 @@ Hi there 👋
 
 [![Bickky's GitHub stats](https://github-readme-stats.vercel.app/api?username=bickkysahani&show_icons=true&theme=radical)](https://github.com/bickkysahani/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bickkysahani)](https://github.com/bickkysahani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bickkysahani&layout=compact)](https://github.com/bickkysahani/github-readme-stats)
 
 
