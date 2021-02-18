@@ -3,7 +3,7 @@ Hi there 👋
 - 🔭 I’m currently exploring the fascinating world of Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Machine Learning Scientist Career Track in Datacamp.
 - 👯 I’m looking to collaborate on Machine Learning and AI Projects.
-- 🌱 I am working on a project called AI Team Community, a non-profit organization.
+- 🌱 I'm creating an AI Team Community from complete scratch.
 - 🤔 I’m looking for AI/ML enthusiast to join my AI Team Community where I will guide you through basics of programming, data science for completely free.
 - 💬 Ask me about Coding, Startups and Tech.
 - 📫 How to reach me: Send a DM at linkedin.com/in/bickkysahani
