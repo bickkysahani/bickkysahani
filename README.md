@@ -1,10 +1,8 @@
 Hi there 👋
 
-- 🔭 I’m currently exploring the fascinating world of Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Machine Learning Scientist Career Track in Datacamp.
-- 👯 I’m looking to collaborate on Machine Learning and AI Projects.
-- 🌱 I'm creating an AI Team Community from complete scratch.
-- 🤔 I’m looking for AI/ML enthusiast to join my AI Team Community where I will guide you through basics of programming, data science for completely free.
+- 🔭 I’m currently exploring the fascinating world of Web Technologies.
+- 🌱 I’m currently learning Full Stack Web Development..
+- 👯 I’m looking to collaborate on Open source web dev projects.
 - 💬 Ask me about Coding, Startups and Tech.
 - 📫 How to reach me: Send a DM at linkedin.com/in/bickkysahani
 - 😄 Pronouns: He/Him.
