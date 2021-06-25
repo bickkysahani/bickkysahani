@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bickky</h1>
-<h3 align="center">A passionate developer from Nepal.</h3>
+<h3 align="center">A passionate developer and a computer engineering undergrad from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bickkysahani&label=Profile%20views&color=0e75b6&style=flat" alt="bickkysahani" /> </p>
 
