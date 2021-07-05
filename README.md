@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **a freelance web developer**
 
-- 🌱 I’m currently learning **Full Stack Web Development with React on Coursera.**
+- 🌱 I’m currently learning **Full Stack Web Development on Coursera.**
 
 - 👯 I’m looking to collaborate on **Open source web dev projects.**
 
