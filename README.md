@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development on Coursera.**
 
-- 🌱 Recently I have also recieved the Udacity AWS Machine Learning Scholarship, which I ususally continue on my free time.
+- 🌱 Recently I have also received the Udacity AWS Machine Learning Scholarship, which I ususally continue on my free time.
 
 - 👯 I’m looking to collaborate on **Open source web dev projects.**
 
