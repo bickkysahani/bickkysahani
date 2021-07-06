@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bickky</h1>
-<h3 align="center">A frontend developer with a Machine Learning twist.</h3>
+<h3 align="center">Current frontend developer, future machine learning engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bickkysahani&label=Profile%20views&color=0e75b6&style=flat" alt="bickkysahani" /> </p>
 
@@ -8,6 +8,8 @@
 - 🔭 I’m currently working as **a freelance web developer**
 
 - 🌱 I’m currently learning **Full Stack Web Development on Coursera.**
+
+- 🌱 Recently I have also recieved the Udacity AWS Machine Learning Scholarship, which I ususally continue on my free time.
 
 - 👯 I’m looking to collaborate on **Open source web dev projects.**
 
