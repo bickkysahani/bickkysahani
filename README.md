@@ -11,6 +11,8 @@
 
 - 🌱 Recently I have also received the Udacity AWS Machine Learning Scholarship, which I ususally continue on my free time.
 
+- 📫 I am also building a open source tech community via facebook group where members learn together, collaborate on projects and share their experiences.If you're interested,feel free to join our community.https://www.facebook.com/groups/132938328686261
+
 - 👯 I’m looking to collaborate on **Open source web dev projects.**
 
 - 👨‍💻 All of my projects are available at [github](github.com/bickkysahani)
