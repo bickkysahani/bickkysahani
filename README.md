@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iambickky" target="blank"><img src="https://img.shields.io/twitter/follow/iambickky?logo=twitter&style=for-the-badge" alt="iambickky" /></a> </p>
 
-- 🔭 I’m currently working as **a freelance web developer**
+- 🔭 I’m currently working as **a freelance frontend developer as well as programming instructor**
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
