@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github.com/bickkysahani)
 
-- 💬 Ask me about **Coding and Tech.**
+- 💬 Ask me about **Coding (Python and Javascript) and Tech.**
 
 - 📫 How to reach me **bickkysahani@gmail.com**
 
