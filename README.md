@@ -1,16 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Bickky Sahani</h1>
+<h1 align="center">Hi 👋, I'm Bickky.</h1>
 <h3 align="center">A passionate computer engineering student from Nepal.</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
 </p>
+- 🔭 I’m currently working as **a freelance frontend developer as well as programming instructor**
 
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
+- 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/bickkysahani?tab=repositories)
 
 - 💬 Ask me about **Python, Javascript** & **CSS**
+
+-  👯 I’m looking to collaborate on **Open source Web Development projects.**
 
 - 📫 How to reach me **bickkysahani@gmail.com**
 
@@ -56,9 +59,9 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/bickkysahani"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bickkysahani"><img src="https://img.shields.io/badge/-bickkysahani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bickkysahani@gmail.com"><img src="https://img.shields.io/badge/-bickkysahani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/iambickky"><img src="https://img.shields.io/badge/-@bickkysahani-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
 
