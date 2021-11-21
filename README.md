@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/bickkysahani?tab=repositories)
 
-- 💬 Ask me about **Python, Javascript** & **CSS**
+- 💬 Ask me about **Python, ML, Javascript** & **CSS**
 
 -  👯 I’m looking to collaborate on **Open source Web Development projects.**
 
