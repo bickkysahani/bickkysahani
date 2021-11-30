@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
 </p>
 
-- 🔭 I’m currently working as **a freelance fullstack developer (React and Python) as well as programming instructor**
+- 🔭 I’m currently working as **a freelance developer as well as programming instructor**
 
 - 🌱 I’m currently learning **everything**
 
