@@ -77,6 +77,7 @@
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bickkysahani&layout=compact)](https://github.com/bickkysahani/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bickkysahani)](https://github.com/bickkysahani/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
