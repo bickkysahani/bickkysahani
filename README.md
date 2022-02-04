@@ -76,6 +76,8 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/bickkysahani/bickkysahani/blob/output/github-contribution-grid-snake.svg)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
