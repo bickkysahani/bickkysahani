@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [github](https://github.com/bickkysahani?tab=repositories)
 
 - 💬 Ask me about **Python, Django, Javascript*, & **CSS**
-- 
+
 -  👯 I’m looking to collaborate on **MERN Projects**
 
 - 📫 How to reach me **bickkysahani@gmail.com**
