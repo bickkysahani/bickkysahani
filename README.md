@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bickky.</h1>
 <h3 align="center">Welcome to my Github Profile. </h3>
-<h4 align="center">Here, you will find everything about my programming life, projects and much more...</h4>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
