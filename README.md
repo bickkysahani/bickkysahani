@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bickky.</h1>
-<h3 align="center">A passionate software developer from Nepal.</h3>
+<h3 align="center">Welcome to my Github Profile. </h3>
+<h4 align="center">Here, you will find everything about my programming life, projects and much more...</h4>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
@@ -8,7 +9,7 @@
 
 - 🔭 I’m currently working as **a freelance python developer as well as a programming instructor**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **JavaScript and Nodejs**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/bickkysahani?tab=repositories)
 
