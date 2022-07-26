@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
 </p>
 
-- 🔭 I’m currently working as **a freelance python developer as well as a programming instructor**
+- 🔭 I’m currently working as **a freelance software developer**
 
 - 🌱 I’m currently learning **JavaScript and Nodejs**
 
