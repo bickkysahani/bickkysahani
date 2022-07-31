@@ -6,15 +6,15 @@
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
 </p>
 
-- 🔭 I’m currently working as **a freelance software developer**
+- 🔭 I’m currently working as **a freelance software engineer (Python)**
 
-- 🌱 I’m currently learning **JavaScript and Nodejs**
+- 🌱 I’m currently learning **Advanced Django and React**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/bickkysahani?tab=repositories)
 
-- 💬 Ask me about **Python, Django, Javascript*, & **CSS**
+- 💬 Ask me about **Python, Django, API Development, Javascript*, & **React**
 
--  👯 I’m looking to collaborate on **MERN Projects**
+-  👯 I’m looking to collaborate on **Python with React Projects**
 
 - 📫 How to reach me **bickkysahani@gmail.com**
 
