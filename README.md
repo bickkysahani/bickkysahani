@@ -54,7 +54,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=bickkysahani&show_icons=true)
 <p align="center">
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bickkysahani&theme=blue-green)
 <a href="https://github.com/bickkysahani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bickkysahani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bickkysahani&layout=compact&langs_count=8&theme=algolia"/>
