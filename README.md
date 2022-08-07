@@ -55,7 +55,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![My Github’s Stats](https://github-readme-stats.vercel.app/api?username=bickkysahani&show_icons=true)
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bickkysahani&layout=compact)
 
 <!-- <p align="center">
 <a href="https://github.com/bickkysahani">
