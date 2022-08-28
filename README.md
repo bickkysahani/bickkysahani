@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
 </p>
 
-- 🔭 I’m currently working as **a freelance fullstack software engineer (Python)**
+- 🔭 I’m currently working as **a freelance backend software engineer (Python)**
 
 - 🌱 I’m currently learning **everything**
 
