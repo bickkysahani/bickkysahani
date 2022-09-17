@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Bickky.</h1>
-<p align="center"> a passionate individual who thrives on working on holistic projects that build impactful social and technical solutions that are sustainable and scalable. </p>
 
 <h3 align="center">Welcome to my Github Profile. </h3>
 	
