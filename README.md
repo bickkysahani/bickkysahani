@@ -79,3 +79,6 @@
 <a href="https://medium.com/@bickkysahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bickkysahani" height="30" width="40" /></a>
 </p>
 
+### Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=88lhxed2tufjzi95lfapjvl3w&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=88lhxed2tufjzi95lfapjvl3w&redirect=true)
