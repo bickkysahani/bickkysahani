@@ -81,4 +81,4 @@
 
 ### Now Playing
 
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=88lhxed2tufjzi95lfapjvl3w&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=88lhxed2tufjzi95lfapjvl3w&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=true)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=88lhxed2tufjzi95lfapjvl3w&cover_image=true&theme=novatorem&show_offline=true&bar_color=c837b9&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=88lhxed2tufjzi95lfapjvl3w&redirect=true)
