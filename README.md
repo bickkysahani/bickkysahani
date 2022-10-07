@@ -20,6 +20,20 @@
 - 📫 How to reach me **bickkysahani@gmail.com**
 
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<a href="https://twitter.com/iambickky"><img src="https://img.shields.io/badge/-@iambickky-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bickkysahani"><img src="https://img.shields.io/badge/-bickkysahani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bickkysahani@gmail.com"><img src="https://img.shields.io/badge/-bickkysahani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<a href="https://twitter.com/iambickky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iambickky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bickkysahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bickkysahani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12270150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12270150" height="30" width="40" /></a>
+<a href="https://medium.com/@bickkysahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bickkysahani" height="30" width="40" /></a>
+</p>
+
 	
 ### 🛠 &nbsp; Technologies I have been working with recently.
 <p>Full Stack Development <p>
@@ -64,20 +78,6 @@
 
 ![Snake animation](https://github.com/bickkysahani/bickkysahani/blob/output/github-contribution-grid-snake.svg)
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p>
-<a href="https://twitter.com/iambickky"><img src="https://img.shields.io/badge/-@iambickky-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/bickkysahani"><img src="https://img.shields.io/badge/-bickkysahani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bickkysahani@gmail.com"><img src="https://img.shields.io/badge/-bickkysahani@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-<a href="https://codepen.io/bickkysahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bickkysahani" height="30" width="40" /></a>
-<a href="https://twitter.com/iambickky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iambickky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bickkysahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bickkysahani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12270150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12270150" height="30" width="40" /></a>
-<a href="https://fb.com/bickkysahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bickkysahani" height="30" width="40" /></a>
-<a href="https://medium.com/@bickkysahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bickkysahani" height="30" width="40" /></a>
-</p>
 
 ### Now Playing
 
