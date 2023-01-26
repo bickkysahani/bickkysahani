@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working as **a backend software engineer at <a href="https://varicon.com.au/">Varicon<a/>**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **Architecture Patterns with Python**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/bickkysahani?tab=repositories)
 
-- 💬 Ask me about **Python, Django, REST APIs, Javascript*, & **ML**
+- 💬 Ask me about **Python, Django, REST APIs, Domain Driven Design*, & **ML**
 
 -  👯 I’m looking to collaborate on **Problem Solving and Data Structures and Algorithms**
 
