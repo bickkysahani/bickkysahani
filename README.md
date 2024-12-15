@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=bickkysahani&color=blueviolet&style=flat">
 </p>
 
-- 🔭 I’m currently working as **a backend software engineer at <a href="https://varicon.com.au/">Varicon<a/>**
+- 🔭 I’m currently working as **a senior software engineer (AI) at <a href="https://varicon.com.au/">Varicon<a/>**
 
 - 🌱 I’m currently learning **Architecture Patterns with Python**
 
