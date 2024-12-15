@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working as **a senior software engineer (AI) at <a href="https://varicon.com.au/">Varicon<a/>**
 
-- 🌱 I’m currently learning **Architecture Patterns with Python**
+- 🌱 I’m currently learning **Generative Al Application Integration Patterns**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/bickkysahani?tab=repositories)
 
 - 💬 Ask me about **Python, Django, REST APIs, Domain Driven Design*, & **ML**
 
--  👯 I’m looking to collaborate on **Problem Solving and Data Structures and Algorithms**
+-  👯 I’m looking to collaborate on **Building LLM powered Applications**
 
 - 📫 How to reach me **bickkysahani@gmail.com**
 
