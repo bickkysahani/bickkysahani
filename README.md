@@ -103,11 +103,16 @@
 
 ## ⚙️ &nbsp;GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bickkysahani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bickkysahani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</p>
+![My Github’s Stats](https://github-readme-stats.vercel.app/api?username=bickkysahani&show_icons=true)
+
+<!-- <p align="center">
+<a href="https://github.com/bickkysahani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bickkysahani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bickkysahani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p> -->
+
+![Snake animation](https://github.com/bickkysahani/bickkysahani/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
